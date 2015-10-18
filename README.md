@@ -1,2 +1,5 @@
 # PythonStudy
-Study Python
+
+Study Python.
+
+First Objective : Learn TDD with Python
